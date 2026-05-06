@@ -1,0 +1,2 @@
+https://archive.ics.uci.edu/dataset/908/realwaste
+This link directs to the original RealWaste dataset with 9 folders of different types of waste photos within.
